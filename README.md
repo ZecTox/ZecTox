@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&username=ZecTox" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&username=ZecTox" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&username=Zec" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&username=Zec" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -39,12 +39,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/ZecTox/ZecTox/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <h2 align="left">MY SOCIALS:</h2>
 
 ###
@@ -52,11 +46,11 @@
 <br clear="both">
 
 <div align="left">
+  <a href="https://twitter.com/TejasKedare13" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/zectox/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/TejasKedare13" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
   <a href="zectox#1010" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
@@ -68,16 +62,8 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31eq2s7xphr5n6pkagpp66pwji3m">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ZecTox.ZecTox&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Zec.Zec&"  />
 </div>
 
 ###
