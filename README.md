@@ -1,5 +1,5 @@
 <h2 align="left">Hi Folks 👋🏽 !! I'm Tejas, a Programmer and a Blockchain Enthusiast 👨🏽‍💻</h2>
- <img src="https://static.vecteezy.com/system/resources/previews/002/180/159/non_2x/blockchain-and-cryptocurrency-concept-free-vector.jpg" height="150" align="right">
+ <img src="https://static.vecteezy.com/system/resources/previews/002/180/159/non_2x/blockchain-and-cryptocurrency-concept-free-vector.jpg" height="180" align="right">
 
 ###
 
