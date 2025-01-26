@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/ZecTox/ZecTox/blob/main/solo.gif" width="200" style="border-radius: 50%">
   
-  # Hi there, I'm Zeeshan 👋
+  # Hi there, I'm Tejas 👋
   
   ### Shopify Developer | DevOps Learner
   
