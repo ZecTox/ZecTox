@@ -1,44 +1,43 @@
-<h2 align="left">Hi Folks 👋🏽 !! I'm Tejas, a Programmer, Cloud and DevOps Enthusiast 👨🏽‍💻</h2>
+<div align="center">
+  <img src="https://github.com/ZecTox/ZecTox/blob/main/solo.gif" width="200" style="border-radius: 50%">
+  
+  # Hi there, I'm Zeeshan 👋
+  
+  ### Shopify Developer | DevOps Learner
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=ZecTox&color=blueviolet)](https://github.com/ZecTox)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+</div>
+
+---
+
+## 🚀 Current Focus
+
+- 🔭 **Currently**: Working as Shopify Developer
+- 🌱 **Learning**: DevOps Technologies & Cloud Infrastructure
+- 🎯 **Goal**: Become DevOps Engineer in 2024
+- 📚 **Currently Studying**: 
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZecTox&show_icons=true&include_all_commits=true&count_private=true&theme=gotham" height="150" alt="My Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZecTox&layout=compact&langs_count=5&theme=gotham" height="150" alt="Languages" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ZecTox&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZecTox&theme=radical&hide_border=true" />
+  
 </div>
 
-<h2 align="left">🛠️ Technologies I Use:</h2>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
-</div>
+---
 
-<h2 align="left">📱 My Socials:</h2>
-<div align="left">
-  <a href="https://twitter.com/TejasKedare13" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/zectox/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.com/users/zectox#1010" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" alt="Discord" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCSDl2AagI2jQrr25nPIa73A" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" alt="YouTube" />
-  </a>
-</div>
+## 🌱 Contribution Graph
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Zec.Zec" alt="Visitor Badge" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZecTox&theme=react-dark&hide_border=true&area=true" />
 </div>
