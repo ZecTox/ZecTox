@@ -16,7 +16,7 @@
 
 - 🔭 **Currently**: Working as Shopify Developer
 - 🌱 **Learning**: DevOps Technologies & Cloud Infrastructure
-- 🎯 **Goal**: Become DevOps Engineer in 2024
+- 🎯 **Goal**: Become DevOps Engineer by Mid 2025
 - 📚 **Currently Studying**: 
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
